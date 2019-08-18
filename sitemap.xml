@@ -3282,12 +3282,12 @@
   </url>
   
   <url>
-    <loc>https://takashima-piano-school.github.io/takashima-piano-school-hp/contact/</loc>
+    <loc>https://takashima-piano-school.github.io/takashima-piano-school-hp/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://takashima-piano-school.github.io/takashima-piano-school-hp/tags/</loc>
-    <priority>0</priority>
+    <loc>https://takashima-piano-school.github.io/takashima-piano-school-hp/contact/</loc>
   </url>
   
 </urlset>
